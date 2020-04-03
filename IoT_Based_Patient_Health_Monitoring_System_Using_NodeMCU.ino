@@ -13,7 +13,7 @@
 float temperature, humidity, BPM, SpO2, bodytemperature;
 
 /*Put your SSID & Password*/
-const char* ssid = "Alexahome";  // Enter SSID here
+const char* ssid = "abcdefg";  // Enter SSID here
 const char* password = "12345678";  //Enter Password here
 
 dht DHT;
