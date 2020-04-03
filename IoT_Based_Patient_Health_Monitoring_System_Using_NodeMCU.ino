@@ -148,7 +148,7 @@ void handle_NotFound(){
   ptr +="</style>";
   ptr +="</head>";
   ptr +="<body>";
-  ptr +="<h1>ESP32 Patient Health Monitoring</h1>";
+  ptr +="<h1> Patient Health Monitoring</h1>";
   ptr +="<h3>www.how2electronics.com</h3>";
   ptr +="<div class='container'>";
   
